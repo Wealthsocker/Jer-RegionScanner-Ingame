@@ -3,6 +3,8 @@ Backstory:
 
 JerRegionScannerIngame is a 1.20.1 forge mod that makes it possible to generate the world-gen.json directly from Minecraft - without any manual handling of the command line. It complements the functionality of Just Enough Resources (JER), which as of Minecraft 1.12+ can no longer display ore generation directly.
 
+The mod was created with MCreator, with some manual programming here and there.
+
 ### Requirements
 
 Region Scanner (to be downloaded separately):
