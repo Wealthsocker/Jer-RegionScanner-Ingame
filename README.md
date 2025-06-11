@@ -5,9 +5,9 @@ This is a MCreator workspace for my mod JerRegionScannerIngame, created for the 
 This workspace was created with MCreator 2024.2 and is intended for the following modloader versions:
 
 - **Forge 1.20.1**
-- NeoForge 1.20.6
+- **NeoForge 1.20.6**
 
-##⚠️ Note on compatibility with MCreator versions:
+⚠️ Note on compatibility with MCreator versions:
 
 If you want to open the workspace in a newer MCreator version (e.g. 2024.4), you must update it.
 Please note: From version 2024.4, Forge is no longer supported, MCreator will then rely exclusively on NeoForge.
