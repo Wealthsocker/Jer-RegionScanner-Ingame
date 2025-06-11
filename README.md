@@ -1,5 +1,5 @@
-# Jer-RegionScanner-Ingame    
-This is a MCreator workspace for my mod JerRegionScannerIngame, created for the modloader Forge or NeoForge (pay attention to the respective file name!).
+# Jer-RegionScanner-Ingame  
+This is a MCreator workspace for my mod JerRegionScannerIngame, created for the modloader Forge or NeoForge (pay attention to the respective file name!).  
 
 ## Important
 This workspace was created with MCreator 2024.2 and is intended for the following modloader versions:
